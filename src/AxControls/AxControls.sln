@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AxControls", "AxControls\AxControls.csproj", "{B526BEE8-9F3F-4B18-9865-AC050E50542D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		v4.0-Debug|Any CPU = v4.0-Debug|Any CPU
+		v4.0-Release|Any CPU = v4.0-Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B526BEE8-9F3F-4B18-9865-AC050E50542D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B526BEE8-9F3F-4B18-9865-AC050E50542D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B526BEE8-9F3F-4B18-9865-AC050E50542D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B526BEE8-9F3F-4B18-9865-AC050E50542D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B526BEE8-9F3F-4B18-9865-AC050E50542D}.v4.0-Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B526BEE8-9F3F-4B18-9865-AC050E50542D}.v4.0-Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B526BEE8-9F3F-4B18-9865-AC050E50542D}.v4.0-Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B526BEE8-9F3F-4B18-9865-AC050E50542D}.v4.0-Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

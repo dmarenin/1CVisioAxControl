@@ -1,0 +1,15 @@
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\bin\Release\AxControls.dll
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\bin\Release\AxControls.pdb
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\bin\Release\AxInterop.Microsoft.Office.Interop.VisOcx.dll
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\obj\Release\AxInterop.Microsoft.Office.Interop.VisOcx.dll
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\obj\Release\AxControls.csproj.ResolveComReference.cache
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\obj\Release\AxControls.AxProxyVisio.resources
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\obj\Release\AxControls.csproj.GenerateResource.Cache
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\obj\Release\AxControls.dll
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\obj\Release\AxControls.pdb
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\obj\Release\AxControls.csprojResolveAssemblyReference.cache
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\obj\Release\AxControls.Properties.Resources.resources
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\bin\Release\GMap.NET.Core.dll
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\bin\Release\GMap.NET.WindowsForms.xml
+C:\Users\MareninDL\Documents\Visual Studio 2015\Projects\AxControls\AxControls\obj\Release\AxControls.Map.resources
